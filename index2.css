@@ -1,0 +1,96 @@
+.navbar {
+  background-color: #e0a602;
+}
+.pila {
+  background-color: #fdbc05;
+}
+.btn1 {
+  background-color: #00a6c0;
+  border: solid 0.5px;
+  border-radius: 10px;
+  border-color: black;
+  padding: 5px 10px;
+}
+.btn2 {
+  background-color: #f7b701;
+  border: solid 0.5px;
+  border-radius: 10px;
+  border-color: white;
+  padding: 5px 10px;
+}
+.btn3 {
+  background-color: #f7b701;
+  border: solid 0.5px;
+  border-radius: 10px;
+  border-color: white;
+  padding: 5px 10px;
+}
+.btn3:hover {
+  background-color: white !important;
+}
+.textbox::placeholder {
+  color: whitesmoke;
+}
+.textbox {
+  border: none;
+  background-color: #ffbc03 !important;
+  border-radius: 0;
+  margin-right: 0 !important;
+  box-shadow: 2px 2px 10px 2px #6b6b6b;
+}
+.baby {
+  border-radius: 0;
+  background-color: #02aac5;
+  border: none;
+  box-shadow: 2px 2px 10px 2px #6b6b6b;
+}
+.imgbaby {
+  background-image: url(./fuck1.jpg);
+}
+.wd100 {
+  width: 100%;
+  box-shadow: 2px 2px 20px 2px grey;
+}
+.sky {
+  color: #00a6c0;
+  font-weight: bold;
+  font-size: 12px;
+}
+h5 {
+  margin-bottom: 0;
+}
+.chote {
+  font-size: 13px;
+  /* color: red; */
+}
+.likti {
+  box-shadow: 2px 2px 20px 2px grey;
+  padding: 15px;
+}
+.h {
+  color: #00a6c0;
+  text-decoration: none;
+}
+.wdd100 {
+  width: 100%;
+  height: 130%;
+  margin: 0;
+}
+.lo {
+  background-color: #e0a602;
+  border: 1px solid grey;
+  padding: 0 !important;
+}
+.duri0 {
+  padding: 0;
+}
+.nila {
+  background-color: #03a3be;
+  color: white;
+  border: 1px solid grey;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
